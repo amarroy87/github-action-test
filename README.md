@@ -1,4 +1,4 @@
-# Mastering GitHub Actions: From Beginner to Expert -> Amar Roy
+# Mastering GitHub Actions: From Beginner to Expert -> Amar Roy secong time
 
 ### Course link (with a big discount 🙂): https://www.lauromueller.com/courses/mastering-github-actions
 
